@@ -1,0 +1,1 @@
+<?php require 'config/db.php';$pageTitle='Contact Us';include 'includes/header.php';?><div class="container py-5"><div class="info-panel p-5"><h1>Contact Us</h1><p>For admission information, send your question through our inquiry form. Our team will review it.</p><a class="btn btn-primary" href="inquiry.php">Send an Inquiry</a></div></div><?php include 'includes/footer.php';?>
